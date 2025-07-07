@@ -23,8 +23,7 @@ Ju registracijas su galimybe atsaukti/priimti jas
 Gali sukurti/redaguoti/istrinti proceduras
 
 DATABASE
-
--
+------------------------
 
 CREATE TABLE Users (
 id SERIAL PRIMARY KEY,
